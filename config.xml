@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.playone.cordova" version="1.0.0.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.playone.test" version="1.0.0.0">
 
-	<name>CordovaTest</name>
+	<name>Firebase - King of Click</name>
 	<description>test</description>
 	<author href="https://www.facebook.com/playoneapps" email="playoneapps@gmail.com">playone</author>
 
@@ -18,7 +18,7 @@
 	<preference name="fullscreen" value="true" />
 	<gap:config-file platform="ios" parent="UIStatusBarHidden"><true/></gap:config-file>
 	<gap:config-file platform="ios" parent="UIViewControllerBasedStatusBarAppearance"><false/></gap:config-file>
-	<preference name="android-minSdkVersion" value="16" />
+	<preference name="android-minSdkVersion" value="14" />
 	<preference name="target-device" value="universal" />
 
 	<gap:plugin name="org.apache.cordova.inappbrowser" />
