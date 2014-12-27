@@ -1,1 +1,2 @@
 <intelxdk:plugin intelxdk:name="org.apache.cordova.inappbrowser" intelxdk:value="org.apache.cordova.inappbrowser" />
+<intelxdk:plugin intelxdk:name="org.apache.cordova.inappbrowser" intelxdk:value="org.apache.cordova.inappbrowser" intelxdk:version="0.5.2" />
